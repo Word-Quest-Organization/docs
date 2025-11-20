@@ -31,10 +31,3 @@ Oferecer uma experiência completa de aprendizado de inglês que une **educaçã
 
 ---
 
-Se quiser, posso gerar também:
-- Versão em **inglês**  
-- Badges (shields) para topo do README  
-- Estrutura completa para documentação  
-- Um README.md mais longo e profissional  
-
-Só pedir!
